@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Left A Good Job In The City...
 
-You can use the [editor on GitHub](https://github.com/bethanykjenkins/bethlearnstocode/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<iframe src="https://giphy.com/embed/3hteazfydxbzXwponu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/londontheatredirect-dancing-3hteazfydxbzXwponu">via GIPHY</a></p>
+
+...but it wasn't such a good job and it was a 2 hour bus ride from the city. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
